@@ -1,0 +1,6 @@
+@entityframeworkdbfirst4data_HostAddress = http://localhost:5229
+
+GET {{entityframeworkdbfirst4data_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
